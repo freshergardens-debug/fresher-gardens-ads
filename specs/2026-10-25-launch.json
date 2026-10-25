@@ -1,0 +1,60 @@
+{
+  "batch": "2026-10-25-launch",
+  "note": "The six launch ads (v2), rebuilt from specs. Already live in Meta - do not re-upload.",
+  "ads": [
+    {
+      "id": "launch-text-thread",
+      "layout": "text_thread",
+      "contact": "Mowing guy",
+      "messages": [
+        {"ts": "Tue 4:12 pm", "text": "Hey, are you still coming Thursday?"},
+        {"ts": "Fri 9:03 am", "text": "The lawn's getting pretty long"},
+        {"text": "Hello??"}
+      ],
+      "read": "Read Saturday",
+      "band": "Peninsula homeowners, there's an [easier way.]"
+    },
+    {
+      "id": "launch-stop-chasing",
+      "layout": "callout_photo",
+      "photo": "fresher_gardens-202.jpg",
+      "kicker": "Mornington Peninsula homeowners",
+      "headline": "Stop chasing your [mowing guy.]",
+      "sub": "We just turn up."
+    },
+    {
+      "id": "launch-before-after",
+      "layout": "before_after",
+      "headline": "From overgrown to [sorted.]",
+      "before": "ba_before.jpg",
+      "after": "ba_after.jpg"
+    },
+    {
+      "id": "launch-guarantee",
+      "layout": "face_guarantee",
+      "photo": "fresher_gardens-38.jpg",
+      "headline": "If you don't love it, you [don't pay.]",
+      "reviews": true
+    },
+    {
+      "id": "launch-price-55",
+      "layout": "price_shock",
+      "photo": "fresher_gardens-198.jpg",
+      "chip": "NEW CLIENTS",
+      "from_label": "from",
+      "amount": "$55",
+      "what": "your first mow.",
+      "then": "Then from $110 a visit. No lock-in.",
+      "cta": "Get my price"
+    },
+    {
+      "id": "launch-30-seconds",
+      "layout": "text_colour",
+      "theme": "lime",
+      "headline": "Your lawn price in [30 seconds.]",
+      "chip": "New clients: 50% off your first mow",
+      "cta": "Show me my price",
+      "small": "No obligation."
+    }
+  ]
+}

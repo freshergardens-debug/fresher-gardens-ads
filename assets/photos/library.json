@@ -1,0 +1,27 @@
+{
+  "_note": "Real Fresher Gardens photos only. Pick photos whose description fits the ad. Orientation: P = portrait, L = landscape.",
+  "photos": [
+    {"file": "fresher_gardens-38.jpg", "o": "L", "shows": "The four-man crew in branded black shirts, smiling, arms around each other on a mown lawn, bush behind", "good_for": ["crew", "trust", "guarantee", "faces"]},
+    {"file": "img_4020.jpg", "o": "L", "shows": "Crew of four doing thumbs up beside the branded Fresher Gardens trailer (logo, services list, phone) in front of a shed", "good_for": ["crew", "trust", "branded", "promise"]},
+    {"file": "img_3996.jpg", "o": "P", "shows": "Crew of four beside the branded trailer, portrait framing", "good_for": ["crew", "branded"]},
+    {"file": "img_1160.jpg", "o": "P", "shows": "Two crew members thumbs up beside a ute with the branded trailer, sunny street", "good_for": ["crew", "local", "turn up"]},
+    {"file": "fresher_gardens-202.jpg", "o": "P", "shows": "Crew member on an orange ride-on mower on a big open block, tall gums, big blue sky at top (good space for text at top)", "good_for": ["mowing", "turn up", "big blocks", "callout"]},
+    {"file": "fresher_gardens-200.jpg", "o": "L", "shows": "Crew member on the orange ride-on mowing a big block under gum trees", "good_for": ["mowing", "big blocks"]},
+    {"file": "fresher_gardens-206.jpg", "o": "P", "shows": "Orange ride-on mower with trailer parked on a mown lawn under a young tree, blue sky", "good_for": ["gear", "proper gear"]},
+    {"file": "fresher_gardens-207.jpg", "o": "P", "shows": "Close-up of the orange ride-on mower seat and steering wheel", "good_for": ["gear", "detail"]},
+    {"file": "fresher_gardens-198.jpg", "o": "P", "shows": "Neat curved lawn edge with garden bed, lattice screen and big tree, blue sky (lawn lower half)", "good_for": ["finish", "clean edges", "price", "result"]},
+    {"file": "fresher_gardens-210.jpg", "o": "P", "shows": "Path leading to a mown lawn between timber fences, blue sky with clouds", "good_for": ["result", "reviews", "calm"]},
+    {"file": "fresher_gardens-183.jpg", "o": "P", "shows": "Timber deck walkway with pergola and leafy plants, blue sky", "good_for": ["garden", "result"]},
+    {"file": "fresher_gardens-190.jpg", "o": "P", "shows": "Weatherboard house with silver birch and lawn in dappled shade", "good_for": ["home", "garden"]},
+    {"file": "fresher_gardens-212.jpg", "o": "P", "shows": "Flowering hibiscus against a weatherboard wall", "good_for": ["garden", "colour"]},
+    {"file": "fresher_gardens-215.jpg", "o": "P", "shows": "Young tree in a mulched bed beside lawn", "good_for": ["garden", "mulch"]},
+    {"file": "fresher_gardens-194.jpg", "o": "P", "shows": "Tree canopy over a timber fence, blue sky (mostly sky and leaves)", "good_for": ["background only"]},
+    {"file": "fresher_gardens-186.jpg", "o": "L", "shows": "Gravel driveway turning circle with vehicles, bush around", "good_for": ["property", "acreage"]},
+    {"file": "fresher_gardens_drone_photo-16.jpg", "o": "L", "shows": "Drone view of a maintained yard: lawn, curved garden beds, sheds; roof edge on the right", "good_for": ["holiday homes", "whole property", "aerial"]},
+    {"file": "fresher_gardens_drone_photo-8.jpg", "o": "L", "shows": "Drone view of a whole home with solar panels, yard and trees (mostly roof)", "good_for": ["aerial", "property"]},
+    {"file": "fresher_gardens_drone_photo-1.jpg", "o": "L", "shows": "Drone view of a long roof with a crew member on it and bush behind (mostly roof)", "good_for": ["aerial"]},
+    {"file": "ba_before.jpg", "o": "P", "shows": "BEFORE: overgrown long grass and weeds in a side courtyard by an air-con unit", "good_for": ["before_after (before)"]},
+    {"file": "ba_after.jpg", "o": "P", "shows": "AFTER: the same courtyard cleared and tidy with outdoor chairs", "good_for": ["before_after (after)"]},
+    {"file": "img_9423.jpg", "o": "P", "shows": "Side-by-side before/after of a large round shrub being trimmed (already a split image)", "good_for": ["hedging proof"]}
+  ]
+}
